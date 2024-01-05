@@ -1,6 +1,9 @@
-[![ZYF's GitHub stats](https://github-readme-stats.vercel.app/api?username=yf8578)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=yf8578" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yf8578&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yf8578&layout=compact)
 - 👋 Hi, I’m @yf8578, I want to be a knowledgeable man and I will study hard.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
