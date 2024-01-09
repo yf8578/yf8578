@@ -4,11 +4,9 @@
 <span>  </span>
 </div>
 
-- 👋 Hi, I’m @yf8578, I want to be a knowledgeable man and I will study hard.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+👋 Hi, I’m Yifan Zhang,I am currently pursuing a master's degree at the University of Chinese Academy of Sciences. My abilities are limited, but I will work hard to learn. For the sake of living and for my dreams
+
 
 <!---
 yf8578/yf8578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
